@@ -7,6 +7,6 @@ The purpose of this page is to share a blueprint for generating a diversity map 
 The data used for the is retrived from the NYC metro region project site: https://metroexplorer.planning.nyc.gov/about
 The data set used is the one called "Census Tract 2010"
 ## How does the script look like? 
-(https://github.com/raszkap/New_York_Mapping_Diversity/blob/main/New_York_Diversity_Map.ipynb)
+To see the script click [here](https://github.com/raszkap/New_York_Mapping_Diversity/blob/main/New_York_Diversity_Map.ipynb)
 
 
